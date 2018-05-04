@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a72dff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#b8ffaa</color>
+    <color name="TextView">#ff8000</color>
+    <color name="tv2">#fff49f</color>
+    <color name="tv4">#efd7ff</color>
+    <color name="tv3">#a9ffee</color>
+    <color name="tv5">#ffd3d2</color>
+    <color name="tv6">#c8fffd</color>
+</resources>

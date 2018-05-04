@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="titulo1">TEST</string>
+    <string name="tnombre">Name</string>
+    <string name="cnombre">Write your name</string>
+    <string name="tapellido">Surname</string>
+    <string name="capellido">Write your surname</string>
+    <string name="tnumcuenta">Account number</string>
+    <string name="cnumcuenta">Write your account number</string>
+    <string name="tcorreo">E-mail</string>
+    <string name="ccorreo">example@example.com</string>
+    <string name="tgenero">Gender</string>
+    <string name="tgenero1">Male</string>
+    <string name="tgenero2">Female</string>
+    <string name="tfacultad">Faculty</string>
+    <string name="tfacultad3">Faculty of Engineering</string>
+    <string name="tfacultad1">Faculty of Architecture</string>
+    <string name="tfacultad2">Faculty of Accounting</string>
+    <string name="tfacultad4">Faculty of Medicine</string>
+    <string name="tfacultad5">Faculty of Psychology</string>
+    <string name="tEnviar">Send</string>
+    <string name="mensajeGenero">Select a gender</string>
+    <string name="mensajeFac">Select a Faculty</string>
+    <string name="toastIni">Saved Student.</string>
+    <string name="toastNombre">" Name: "</string>
+    <string name="toastApellido">" Surname: "</string>
+    <string name="toastNumC">" Account number: "</string>
+    <string name="toastCorreo">" E-mail: "</string>
+    <string name="toastGenero">" Gender: "</string>
+    <string name="toastFacultad">" Faculty: "</string>
+    <string name="mensajeNum">The account number must have 10 digits</string>
+    <string name="mensajeNom">Invalid name</string>
+    <string name="mensajeApell">Invalid surname</string>
+    <string name="mensajeCorreo">Invalid E-mail</string>
+</resources>
